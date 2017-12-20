@@ -1,0 +1,8 @@
+* {
+    font-family: 'Lora', serif;
+}
+
+#wrapper {
+    background: url(../images/christian-perner-329584a.jpg) no-repeat fixed center;
+    padding: 50px 15% 20px 15%;
+}
